@@ -1,5 +1,5 @@
 Add-AzureRmAccount
-
+Add-20533EEnvironment
 Select-20533ESubscriptionARM
 
 $resourceGroupName = '20533E0401-LabRG'
